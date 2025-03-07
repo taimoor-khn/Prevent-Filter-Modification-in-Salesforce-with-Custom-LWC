@@ -28,4 +28,4 @@ This LWC component:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/salesforce-filter-close-button-hider.git
+   git clone https://github.com/taimoor-khn/Prevent-Filter-Modification-in-Salesforce-with-Custom-LWC.git
